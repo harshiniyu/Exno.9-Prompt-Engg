@@ -1,46 +1,64 @@
-# Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
+# **Ex. No. 9 – To Explore and Understand the Various Prompting Techniques Used for Generating Videos through AI Models**
 
-# Date: 
-# Register no.:
-# Aim: To perform the Exploration of Prompting Techniques for Video Generation
-# Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
-Familiarize Yourself with Video Generation Models:
-Begin by exploring AI tools capable of video generation from text prompts. Popular models for video generation include:
-Runway Gen-2
-Synthesia
-Pictory
-DeepBrain
-Understand the capabilities and limitations of each tool before starting the experiment.
-Create Simple Prompts for Video Generation:
-Start with simple prompts to generate short videos. These prompts should describe the general subject or activity.
-Example prompt: "A person walking in a park."
-Experiment with More Detailed Prompts:
-Gradually refine your prompts by adding specific details, such as the setting, lighting, actions, or expressions.
-Example prompt: "A person in a red jacket walking along a sunny park path, with birds flying in the sky, and a dog running beside them."
-Add Time and Motion Elements:
-Incorporate aspects like timing, transitions, or camera movement in your prompts.
-Example prompt: "A time-lapse video of the sun setting over the ocean, with the camera slowly zooming out from a beach, capturing the waves and changing colors in the sky."
-Test Different Video Styles:
-Experiment with different styles of video generation, such as animations, live-action, cinematic, or artistic.
-Example prompt: "An animated scene of a futuristic city at night, with glowing neon lights, flying cars, and a bustling crowd of people."
-Iterate and Adjust Prompts:
-Evaluate the generated video and refine the prompt if needed. Consider aspects like the pacing, transitions, and consistency of motion in the video.
-Example: After reviewing, refine the prompt to add more details about the camera angles or actions: "A cinematic shot of a car speeding through a neon-lit city at night, with reflections on the wet street and a high-speed chase scene."
-Generate Multiple Versions:
-Generate multiple versions of the same prompt with slight variations to compare how the video output differs based on the phrasing of the prompt.
-Save and Compare Outputs:
-Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
+**Date:** 11/11/2025<br>
+**Register No.:** 212223240050
+
+---
+
+## **Aim:**
+
+To perform the exploration of prompting techniques for AI-based video generation and understand how text-based inputs can influence the style, motion, and content of generated videos.
+
+---
+
+## **Algorithm:**
+
+1. **Explore AI Video Generation Models:**
+   Study and familiarize yourself with AI tools capable of creating videos from text prompts such as:
+
+   * **Runway Gen-2** – cinematic and realistic text-to-video generation
+   * **Synthesia** – avatar-based video generation for presentations
+   * **Pictory** – script-to-video summarization
+   * **DeepBrain** – realistic talking avatars for business and education
+
+2. **Create Simple Prompts:**
+   Begin with basic prompts describing the main subject or action.
+   Example: *“A person walking in a park.”*
+
+3. **Add Detailed Prompts:**
+   Add more details such as lighting, background, actions, or weather conditions.
+   Example: *“A person in a red jacket walking along a sunny park path with birds flying.”*
+
+4. **Include Time and Motion Elements:**
+   Incorporate camera movement or transitions.
+   Example: *“A time-lapse of the sun setting over the ocean with the camera zooming out.”*
+
+5. **Experiment with Styles:**
+   Try various visual types like cinematic, animated, or realistic.
+   Example: *“An animated futuristic city at night with neon lights and flying cars.”*
+
+6. **Iterate and Refine:**
+   Review and modify prompts to improve pacing, camera angles, or visual clarity.
+
+7. **Generate and Compare Outputs:**
+   Generate multiple outputs with slightly different prompt phrasing and observe variations.
+
+---
+# Input and Output: <br>
+Video Generation: <br>
+prompt 1:<br>
+A cinematic shot of a caramel pudding (flan) on a dark wooden table, rotating slowly like a food commercial, with smooth 360-degree camera movement around the dessert, warm soft studio lighting, shallow depth of field, focus on the glossy caramel texture dripping slightly, cinematic atmosphere, ultra-realistic, product advertisement style, 4k resolution, elegant slow motion, dark blurred background with warm reflections.
 
 
-# Result: The Prompt of the above task executed successfully
+https://github.com/user-attachments/assets/962b0440-89e8-4ecd-a1d1-7b6b47c14429
 
 
 
+prompt 2:A slow zoom in camera movement, lights flickering 
 
 
-
-
+https://github.com/user-attachments/assets/5282828b-d083-4ca0-a975-a903422a853a
 
 
 # Result:
-
+The Prompt of the above task executed successfully
